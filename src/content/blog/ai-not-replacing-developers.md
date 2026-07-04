@@ -2,7 +2,7 @@
 title: 'AI Isn''t Replacing Developers. It''s Making Them More Productive.'
 description: 'Why AI is the next major productivity tool, not a replacement for software engineering.'
 pubDate: 'Jul 05 2026'
-heroImage: '../assets/ai-productivity-developer.png'
+heroImage: 'src/assets/ai-productivity-developer.png'
 ---
 
 Every few months, another headline appears:
