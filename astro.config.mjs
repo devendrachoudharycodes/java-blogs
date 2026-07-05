@@ -3,7 +3,9 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-    integrations: [mdx(), sitemap()],
+  site: 'https://devendrachoudharycodes.github.io', 
+  base: '/java-blogs',
+	integrations: [mdx(), sitemap()],
     fonts: [
         {
             provider: fontProviders.local(),
